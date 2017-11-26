@@ -28,4 +28,4 @@ optional arguments:
 This script is distributed under MIT License. See LICENSE.md for more.
 
 ## TODO:
-  [ ] add compiled languages support
+  - [ ] add compiled languages support
